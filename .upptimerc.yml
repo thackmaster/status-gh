@@ -13,6 +13,10 @@ sites:
     url: https://photos.wesleythacker.com
   - name: Planka
     url: $PLANKA_URL
+  - name: Plex
+    url: $PLEX_URL
+    check: "tcp-ping"
+    port: $PLEX_PORT
   - name: Trilium
     url: $TRILIUM_URL
 
