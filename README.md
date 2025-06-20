@@ -24,7 +24,7 @@ This repository contains the open-source uptime monitor and status page for [tha
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://thackmaster.github.io/status)
+[**Visit our status website →**](https://thackmaster.github.io/status-gh)
 
 ## 📄 License
 
