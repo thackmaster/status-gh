@@ -6,7 +6,7 @@ sites:
   - name: Bookstack
     url: $BOOKSTACK_URL
   - name: Git
-    url: $GIT_URL
+    url: https://git.wesleythacker.com
   - name: Immich
     url: $IMMICH_URL
   - name: Photos
